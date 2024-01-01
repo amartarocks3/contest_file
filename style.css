@@ -11,6 +11,7 @@ body .container nav, * .container nav {
   margin-top: 20px;
   color: black;
   display: inline-block;
+  width: 100%;
 }
 body .container nav .darkbtn, * .container nav .darkbtn {
   float: right;
